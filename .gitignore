@@ -1,0 +1,13 @@
+# .gitignore
+
+# Dependencies
+/node_modules
+/client/node_modules
+/server/node_modules
+
+# Environment
+/server/.env
+
+# Build outputs
+/client/build
+/server/dist
